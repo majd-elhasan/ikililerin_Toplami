@@ -1,0 +1,15 @@
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.csproj.AssemblyReference.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.AssemblyInfoInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.AssemblyInfo.cs
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.csproj.CoreCompileInputs.cache
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\bin\Debug\net6.0\Ikililerin_Toplami.exe
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\bin\Debug\net6.0\Ikililerin_Toplami.deps.json
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\bin\Debug\net6.0\Ikililerin_Toplami.runtimeconfig.json
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\bin\Debug\net6.0\Ikililerin_Toplami.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\bin\Debug\net6.0\ref\Ikililerin_Toplami.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\bin\Debug\net6.0\Ikililerin_Toplami.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\ref\Ikililerin_Toplami.dll
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.pdb
+D:\Mecid_Files\GitHub\Csharp_projects\Ikililerin_Toplami\obj\Debug\net6.0\Ikililerin_Toplami.genruntimeconfig.cache
